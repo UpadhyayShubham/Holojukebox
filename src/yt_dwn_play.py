@@ -20,5 +20,5 @@ with open("video_rename.txt", 'r+') as a:
 
 	s4 = "mplayer -fs " + s2 + ".mp4"
 
-	os.system(s4)
+	#os.system(s4)
 	
